@@ -1,0 +1,13 @@
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Milen\source\repos\Design Patterns\FoodDelivery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

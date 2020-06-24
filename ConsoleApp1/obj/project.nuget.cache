@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gu+dOi2oFIc+s3ijTpBRQpQC2/J5n+nOC7cgY8V97br2NDRg6l1qScko4bgmXbpXMIuTp8Odmd0qtiu9G2iJZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milen\\source\\repos\\Design Patterns\\FoodDelivery\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
